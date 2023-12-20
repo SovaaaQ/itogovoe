@@ -1,0 +1,4 @@
+{
+  "serverPort": 8080,
+  "mongo": "mongodb+srv://mukhinaur:MidisMemory2023@cluster0.hbqdfss.mongodb.net/?retryWrites=true&w=majority"
+}
